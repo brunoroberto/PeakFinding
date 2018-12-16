@@ -13,7 +13,7 @@ import com.github.brunoroberto.peakfinder.time.ExecutionTime;
  * 
  * Problem: find a peak if it exists
  * 
- * @author micro
+ * @author brunoroberto
  *
  * @param <T>
  */
